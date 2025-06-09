@@ -17,9 +17,9 @@ E-Commerce Website is a fully responsive ecommerce website, maximum compatibliti
 
 Before you begin, ensure you have met the following requirements:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+<!-- * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system. -->
 
-## Installing Anon
+## Installing
 
 To install follow these steps:
 
