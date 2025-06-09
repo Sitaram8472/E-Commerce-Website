@@ -24,7 +24,7 @@ Before you begin, ensure you have met the following requirements:
 To install follow these steps:
 
 Linux and macOS:
-
+<!-- 
 ```bash
 sudo git clone https://github.com/codewithsadee/E-commerce-website.git
 ```
@@ -33,7 +33,7 @@ Windows:
 
 ```bash
 git clone https://github.com/codewithsadee/E-commerce-website.git
-```
+``` -->
 
 <!-- ## Contact
 
